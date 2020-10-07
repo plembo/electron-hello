@@ -9,6 +9,6 @@
   "author": "Phil Lembo",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^8.2.5"
+    "electron": "^10.1.3"
   }
 }
